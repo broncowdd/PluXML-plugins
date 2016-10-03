@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<title><![CDATA[RssFeedContent]]></title>
+<author><![CDATA[Bronco]]></author>
+<version>1.0</version>
+<date>23/09/16</date>
+<site>http://warriordudimanche.net</site>
+<description><![CDATA[Charge et affiche un flux RSS : utiliser le hook $plxShow->callHook("showRssFeedContent",array(
+	feed_url,description_visible,items_nb,obsolete_time))]]></description>
+</document>
